@@ -32,7 +32,7 @@ Hello Everyone! First things First, we will create a Virtual machine using Micro
 <a href="https://imgur.com/KkTwoEQ"><img src="https://i.imgur.com/KkTwoEQ.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-Next, connect to the newly created VM using Remote Desktop using the public IPv4 address. If you are a Mac user you will have to download the Microsoft RDP.
+After creating the virtual machine (VM), proceed to connect to it using Remote Desktop by utilizing the assigned public IPv4 address. If you're using a Mac, make sure to download and install Microsoft Remote Desktop (RDP) to facilitate the connection.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Next, connect to the newly created VM using Remote Desktop using the public IPv4
 <a href="https://imgur.com/Mq939fY"><img src="https://i.imgur.com/Mq939fY.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-Now that you have created the VM you will need to enable IIS. Access the control panel then select uninstall a program. Select "Turn windows features on or off" which is located to the left. A list will appear and from there you will enable Internet Information Services.
+Having successfully created the virtual machine, the next step involves enabling Internet Information Services (IIS). Navigate to the Control Panel, then choose "Uninstall a program." On the left-hand side, select "Turn Windows features on or off." A list will be displayed, and within that list, activate Internet Information Services (IIS).
 </p>
 <br />
 
