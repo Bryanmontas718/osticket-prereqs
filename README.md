@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-Welcome! First, we will create a Virtual machine using Microsoft Azure portal. We will use a VM which is a remote computer. We are using a VM in order to protect our physical machine in the event something unexpected occurs. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. For this example we will be using 4 CPUs.
+Hello Everyone! First things First, we will create a Virtual machine using Microsoft Azure portal. We will use a VM which is a remote computer. We are using a VM in order to protect our physical machine in the event something unexpected occurs. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. For this example we will be using 4 CPUs. Try not to use any less, it might create some issues and slow down.
 
 <p>
 <a href="https://imgur.com/KkTwoEQ"><img src="https://i.imgur.com/KkTwoEQ.jpg" title="source: imgur.com" /></a>
